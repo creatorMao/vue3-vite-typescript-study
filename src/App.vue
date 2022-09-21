@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import Test from './components/Test.vue'
+import Index from './components/Index.vue'
+import eIndex from './components/eIndex.vue'
 </script>
 
 <template>
-  <Test></Test>
+  <eIndex></eIndex>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
